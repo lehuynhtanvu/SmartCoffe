@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "918254618729",
+    "firebase_url": "https://smartcoffe-f00c6.firebaseio.com",
+    "project_id": "smartcoffe-f00c6",
+    "storage_bucket": "smartcoffe-f00c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918254618729:android:4f970a2356c9ddf6",
+        "android_client_info": {
+          "package_name": "com.example.lhtv.smartcoffe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918254618729-kbbhgjcnnj8g7tg6c7mupt8vqpji0dud.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lhtv.smartcoffe",
+            "certificate_hash": "b05ed374ff99dafda07a1ea81df41d667b4b6407"
+          }
+        },
+        {
+          "client_id": "918254618729-6bdo54r37ncn2lmc1ta7b3ag1n80ku7a.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "918254618729-6bdo54r37ncn2lmc1ta7b3ag1n80ku7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTVKN0JWEEDkcvqDOtBUgaqCfxeZLTN50"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918254618729-6bdo54r37ncn2lmc1ta7b3ag1n80ku7a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
